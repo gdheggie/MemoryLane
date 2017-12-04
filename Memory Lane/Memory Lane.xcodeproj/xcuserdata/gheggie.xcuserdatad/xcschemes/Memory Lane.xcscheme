@@ -88,7 +88,6 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
-      customArchiveName = "Memory Lane"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
